@@ -11,7 +11,7 @@ Search companies by term
 Display all companies
 `GET         /api/companies`
 
-Save/update company (Authentication required using [JWT](https://jwt.io)
+Save/update company (Authentication required using [JWT](https://jwt.io) )
 `POST        /api/companies/:id`
 
 New user registration
